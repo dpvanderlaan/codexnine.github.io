@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: David | Mercy Ships
+hometitle: Other title
 email: dpvanderlaan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my website! Here you can find the latest about my adventure with Mercy Ships.
