@@ -28,7 +28,7 @@ twitter_username: none
 github_username:  CodexNine
 
 # Build settings
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+remote_theme: CodexNine/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
 
