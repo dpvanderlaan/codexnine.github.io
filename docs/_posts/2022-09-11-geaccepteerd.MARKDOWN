@@ -2,7 +2,7 @@
 layout: post
 title:  "Geaccepteerd voor Electronics Technician!"
 date:   2022-09-11 20:37:00 +0200
-categories: updates 
+categories: posts 
 ---
 Afgelopen week was het eindelijk zover: ik kreeg de uitslag van mijn sollicitatie bij Mercy Ships, na meer dan 2 maanden wachten.
 
