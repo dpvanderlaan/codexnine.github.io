@@ -49,4 +49,5 @@ Wat ook echt super chill is, is dat studenten overal gratis naar binnen mogen hi
 
 <h4>Bouzouki</h4>
 Zo hier in Griekenland begon ik toch mijn gitaar wel een beetje te missen. Na het ronddwalen in de stad, kwam ik tot de ontdekking dat er dus een typisch Griekse banjo/luit/gitaar/ukele bestaat. Ik kon het niet laten daar eentje van te kopen, dus er is nu een extra instrument in mijn collectie bij gekomen haha. Het speelt wel anders dan een gitaar, maar ik heb genoeg tijd om uit te vogelen hoe het werkt. Plus dat er echt super veel leuke, typisch Griekse nummers zijn voor dit instrument.
+<br>
 <img src="/images/bouzouki.jpeg"/>
