@@ -37,9 +37,12 @@ Mijn kamer in Athene was totaal niet dezelfde als op de foto's zichtbaar was, ma
 
 <h4>Toeristje spelen</h4>
 De eerste paar dagen heb ik lekker rondgedwaald in het centrum van Athene. De uitdaging was om Google Maps zo veel mogelijk weg te laten, wat best goed lukte. Veel smalle steegjes bewandeld, zoals ook op de foto hieronder te zien is.
+<br>
 <img src="/images/steegje.jpg"/>
-Wat ook echt super chill is, is dat studenten overal gratis naar binnen mogen hier! Ik ben dus al de Agora (vroegere centrale marktplaats) en de Akropolis op geweest (zie de foto's hieronder).
 <img src="/images/akropolis1.jpg"/>
+<br>
+Wat ook echt super chill is, is dat studenten overal gratis naar binnen mogen hier! Ik ben dus al de Agora (vroegere centrale marktplaats) en de Akropolis op geweest (zie de foto's hieronder).
+<br>
 <img src="/images/akropolis2.jpg"/>
 <img src="/images/akropolis3.jpg"/>
 <img src="/images/agora1.jpg"/>
