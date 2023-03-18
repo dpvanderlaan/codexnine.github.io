@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Dansen en een markt"
+date:   2023-03-18 12:16:00 +0200
+categories: jekyll update
+background: /images/akropolis2.jpg
+---
+<style>
+img {
+    max-width: 0.3vw;
+    max-height: 0.3vh;
+}
+</style>
+
+Vandaag met een groep teachers, die in dezelfde wijk als ik wonen, naar de markt gegaan. Gisteravond hadden we een welkomstdiner (op een dakterras met episch uitzicht!) met de gehele groep leraren, daarna met degene die wilden nog uitgegaan. Het was echt hilarisch; je had kleine straatjes, waar oude kerkjes tussen de restaurants en cafes verstopt zitten. In een van deze straatjes was een bar, die aan beide kanten van de straat een gebouww had. Hierdoor konden ze dat deel van de straat eigenlijk gewoon dibsen en als dansvloer gebruiken. Met een hybride live band en cocktails was er een prima feestje gaande. Een groep van 20 Grieken en Barbaren was gezellig aan het dansen op de muziek, en zetten daarmee de hele straat af.
+
+Efin, de ochtend daarna eerst een koffietje gehaald met de groep (sommigen hadden die hard nodig haha). Toen op en neer gelopen op de markt, waar je echt, echt voor spotgoedkope prijzen je hele weekvoorraad kan inslaan. Alles op de foto hieronder heeft me rond de 5 euro gekost. Het is echt belachelijk! (Al klaag ik niet hehe)
+
+<img src="/images/marktInkopen.jpg" alt="foto van markt inkopen"/>
